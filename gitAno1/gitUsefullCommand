@@ -2,3 +2,6 @@ git init : it initialised the repository
 git add . : it addes the files present in the dir
 git status : it gives the status of the branch , which branch we are working on 
 git log: it shows the log 
+
+
+
